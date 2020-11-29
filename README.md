@@ -12,7 +12,7 @@
 | day    |      reading assignment     |  links  |
 |----------|:-------------:| ------------:|
 |  1 | class1 |[link](https://joudi12.github.io/reading-note-401/class1)  |
-| 2  |   |   |
+| 2  |  class2 |[link](https://joudi12.github.io/reading-note-401/class2)   |
 | 3  |    |      |
 | 4  |      |   |
 |5   ||    |
