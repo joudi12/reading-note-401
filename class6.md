@@ -121,7 +121,7 @@ Big O notation is a method for determining how fast an algorithm is. Using Big O
 
 Big O takes the upper bound. The worst-case results in the worst execution of the algorithm. 
 
-![bigO](/img/big.PNG)
+
 
 Where the further right they are, the longer it takes. n is the size of the input. Big O notation uses these functions to describe algorithm efficiency.
 
