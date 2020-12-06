@@ -1,5 +1,6 @@
 # summery
 # Python Scope
+![image](https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/02/Scopes-01.jpg)
 
 Not all variables can be accessed from anywhere in a program. The part of a program where a variable is accessible is called its scope. There are four major types of variable scope and is the basis for the LEGB rule. LEGB stands for Local -> Enclosing -> Global -> Built-in.
 
