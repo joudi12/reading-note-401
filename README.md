@@ -17,8 +17,8 @@
 | 4  |   class4   |  [link](https://joudi12.github.io/reading-note-401/class4)  |
 |5   |  class5  |[link](https://joudi12.github.io/reading-note-401/class5) |
 | 6  | class6  | [link](https://joudi12.github.io/reading-note-401/class6) |
-| 7  |  |       |
-| 8  | |       |
+| 7  | class7 |     [link](https://joudi12.github.io/reading-note-401/class7)  |
+| 8  |class 8 |    [link](https://joudi12.github.io/reading-note-401/class8)   |
 | 9  |     |            |
 |10  |  |   |
  |    |
