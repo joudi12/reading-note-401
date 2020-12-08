@@ -19,7 +19,7 @@
 | 6  | class6  | [link](https://joudi12.github.io/reading-note-401/class6) |
 | 7  | class7 |     [link](https://joudi12.github.io/reading-note-401/class7)  |
 | 8  |class 8 |    [link](https://joudi12.github.io/reading-note-401/class8)   |
-| 9  |     |            |
+| 9  |   class 9  |    [link](https://joudi12.github.io/reading-note-401/class9)          |
 |10  |  |   |
  |    |
 | 11 |  |   |
