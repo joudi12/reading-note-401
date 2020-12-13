@@ -23,7 +23,7 @@
 |10  | class10 | [link](https://joudi12.github.io/reading-note-401/class10)  |
  |    |
 | 11 |  class11|  [link](https://joudi12.github.io/reading-note-401/class11)  |
-| 12 |   |   |
+| 12 |  class12 |   [link](https://joudi12.github.io/reading-note-401/class12) |
 | 13 | |   |
 | 14 |         |  |
 |15  |  |  | 
