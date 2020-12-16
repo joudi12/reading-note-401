@@ -57,3 +57,4 @@ A collection of disjoint trees is called a forest.
 4. Most popular databases use B-Trees and T-Trees, which are variants of the tree structure we learned above to store their data
 5. Compilers use a syntax tree to validate the syntax of every program you write.
 
+
