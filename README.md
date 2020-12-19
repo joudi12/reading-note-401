@@ -27,3 +27,8 @@
 | 13 |class13 |  [link](https://joudi12.github.io/reading-note-401/class13) |
 | 14 |    class14     |  [link](https://joudi12.github.io/reading-note-401/class14)|
 |15  | class15 | [link](https://joudi12.github.io/reading-note-401/class15) | 
+| 16 |  class16|  [link](https://joudi12.github.io/reading-note-401/class16)  |
+| 17 |   |   |
+| 18 ||  |
+| 19 |       | |
+|20 ||  | 
