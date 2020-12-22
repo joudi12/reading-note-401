@@ -30,5 +30,5 @@
 | 16 |  class16|  [link](https://joudi12.github.io/reading-note-401/class16)  |
 | 17 |  class17 |   [link](https://joudi12.github.io/reading-note-401/class17) |
 | 18 |class18| [link](https://joudi12.github.io/reading-note-401/class18) |
-| 19 |       | |
+| 19 |  class19     | [link](https://joudi12.github.io/reading-note-401/class19) |
 |20 ||  | 
