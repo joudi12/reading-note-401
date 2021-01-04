@@ -70,13 +70,11 @@ def renew_book_librarian(request, pk):
 ## If the form is submitted using a POST request, the view will once again create a form instance and populate it with data from the request: form = NameForm(request.POST) This is called “binding data to the form”
 # what put in our template ?????
 ```
-<form action="" method="post">
-   ``` {% csrf_token %}```
-    <table>
-    {{ form.as_table }}
-    </table>
+<form action="/your-name/" method="post">
+    {{ form }}
     <input type="submit" value="Submit">
-  </form>
+</form>
+
 ```
 
 
