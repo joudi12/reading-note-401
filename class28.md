@@ -71,7 +71,7 @@ def renew_book_librarian(request, pk):
 # what put in our template ?????
 ```
 <form action="" method="post">
-    {% csrf_token %}
+   ``` {% csrf_token %}```
     <table>
     {{ form.as_table }}
     </table>
