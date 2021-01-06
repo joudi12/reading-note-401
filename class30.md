@@ -22,7 +22,7 @@ Value = "Josie"
 Key gets placed in index of 16. 
 
 ```
-##  info 
+##  information 
 ### Arrays actually have fast access. If we know the index of the information we want we can access that information in O(1) time. The reason why searching for a piece of data in a collection is O(N) isn’t because the array is slow, it’s just that we have to look through all N things in the collection.
 
 ### Hash maps take advantage of an array’s O(1) read access. Instead of adding elements to an array from beginning to end, a hash map uses a “hash function” to place each item at a precise index location, based off it’s key.
