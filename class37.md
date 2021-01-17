@@ -102,6 +102,9 @@ ReactDOM.render(
 );
 ```
 
+
+
+
 1. We call ReactDOM.render() with the < Welcome name="Sara" /> element.
 1. React calls the Welcome component with {name: 'Sara'} as the props.
 1. Our Welcome component returns a < h1>Hello, Sara< /h1> element as the result.
